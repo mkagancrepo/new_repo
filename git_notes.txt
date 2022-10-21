@@ -1,0 +1,5 @@
+git status : looks to the file and tracks all the non-git or new created files
+git add . : adds all the files into the git network
+git add index.html : takes specifically index.html
+clear :
+git commit -m "Added index.html" -m "Some description": T
